@@ -13,3 +13,23 @@ This Astro Basic Example App is a starter template for building fast, modern web
 1. Clone this repository:
    ```bash
    git clone https://github.com/YourUsername/Astro-Basic-Example-App.git
+
+2. cd Astro-Basic-Example-App
+
+3. npm install
+
+## Running the App
+To start the development server, run:
+```bash
+npm start
+```
+
+This will serve the app at http://localhost:3000.
+
+## Features
+Basic Astro components for quick setup.
+Sample pages to demonstrate routing and layouts.
+Pre-configured with essential plugins.
+
+## Building and Deployment
+To build your site for production, run:
