@@ -18,7 +18,7 @@ This Astro Basic Example App is a starter template for building fast, modern web
 
 3. npm install
 
-## Running the App
+### Running the App
 To start the development server, run:
 ```bash
 npm start
@@ -33,3 +33,17 @@ Pre-configured with essential plugins.
 
 ## Building and Deployment
 To build your site for production, run:
+
+```bash
+npm run build
+```
+Deploy the dist/ folder to your preferred hosting provider.
+
+## Contributing
+Contributions to improve the Astro Basic Example App are welcome. Please adhere to the following guidelines:
+
+Fork the repository.
+Create a new branch for your feature (git checkout -b feature/AmazingFeature).
+Commit your changes (git commit -m 'Add some AmazingFeature').
+Push to the branch (git push origin feature/AmazingFeature).
+Open a Pull Request.
